@@ -55,7 +55,7 @@ npm install
 npm run dev
 
 # 4. Run the url locally in your browser
-http://localhost:(4 digits number)
+Open your browser and visit the local development URL (e.g., http://localhost:5173)
 
 ## ⚠️ Disclaimer
 
