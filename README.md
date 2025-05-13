@@ -33,16 +33,26 @@ Developed by [Ao Tian](https://github.com/TA-SWJD)
 ### 📱 Movie Description
 ![Description](./image/description.png)
 
-## 🔧 How to run
+## 🛠️ Local Setup Instructions
 
-Open the code in VScode (intended) and open your Terminal
-# 1. Install dependencies
+To run this project locally:
+
+# 1. Install Node.js
+
+Download and install Node.js (v16 or higher) from:
+https://nodejs.org/
+
+Then verify the installation:
+node -v
+npm -v
+
+# 2. Install dependencies
 npm install
 
-# 2. Run local dev server
+# 3. Run local dev server
 npm run dev
 
-# 3. Run the url locally in your browser
+# 4. Run the url locally in your browser
 http://localhost:(4 digits number)
 
 ## ⚠️ Disclaimer
