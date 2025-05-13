@@ -43,7 +43,9 @@ Download and install Node.js (v16 or higher) from:
 https://nodejs.org/
 
 Then verify the installation:
+
 node -v
+
 npm -v
 
 # 2. Install dependencies
